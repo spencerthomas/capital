@@ -1,0 +1,13 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.jumbotron {
+	margin-top: 150px;
+}
+.container{
+	background: url('assets/images/road.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	position: relative;
+	background-position: center;
+}
